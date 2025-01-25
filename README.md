@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Ruby related to modifying instance variables. The `bug.rb` file shows the incorrect approach that leads to a `NoMethodError`. The `bugSolution.rb` file presents a corrected version using an appropriate setter method or instance_variable_set.
